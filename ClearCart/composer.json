@@ -1,0 +1,30 @@
+{
+  "name": "nadeem/magento-2-clear-cart",
+  "description": "Magento 2 Clear Cart extension",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "minimum-stability": "alpha",
+  "prefer-stable": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/inadeemkhan/magento-2-clear-cart"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Nadeem Khan",
+      "email": "khannadeem243@gmail.com",
+      "homepage": "https://inadeemkhan.github.io/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Nadeem\\ClearCart\\": ""
+    }
+  }
+}
