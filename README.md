@@ -28,6 +28,9 @@ If you encounter any problems or bugs, please <a href="https://github.com/magepr
 <b>Shopping Cart</b>
 ![ScreenShot](https://github.com/inadeemkhan/magento2-images/blob/master/ClearCart.png)
 
+<b>Remove Item Confirm</b>
+![ScreenShot](https://github.com/inadeemkhan/magento2-images/blob/master/ClearCart-Confirm.png)
+
 ## Prerequisites
 
 ### Use the following table to verify you have the correct prerequisites to install this Extension.
