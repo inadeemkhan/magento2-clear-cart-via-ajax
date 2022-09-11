@@ -4,7 +4,7 @@ Magento 2 extension To Clear cart using ajax | Nadeem Khan
 <!--<img style="border: 3px solid #ccc; padding: 5px;" src="https://i.ibb.co/wwD2MY0/Magento2-search.png" alt="Magento2-search" border="0">-->
 
 ## Features:
-1. To Clear/remove all items from the Shopping Cart.
+1. To Clear/Remove all items from the Shopping Cart on Single Click.
 2. Looks like core functionality of Magento (at backend as well as frontend)
 3. Unencrypted code for easy customization
 
